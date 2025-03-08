@@ -49,18 +49,22 @@ Exploratory Data Analysis
 
 Used Notebook to explore the data and established the following insights:
 
-* 1.churn distribution
+ **1.churn distribution**
 
-The majority of the customers do not curn indicating an imbalanced dataset. churn d
+The majority of the customers do not curn indicating an imbalanced dataset. 
+![churn d](https://github.com/user-attachments/assets/2bbe779c-1ca9-4da8-b215-c31caa6e1e67)
 
-* 2.Account length distribution for churned and non churned customers
+**2.Account length distribution for churned and non churned customers**
 
 Both churn and non churned customers exist across various account lengths which shows that longer account lenngths result in churn. account length distribution
+![account length distribution](https://github.com/user-attachments/assets/7ba7b7ba-9e40-41f4-868e-95a66117c531)
 
-3.* correlation heatmap
+**3.correlation heatmap**
+
 churn is highly correlated with customer service calls which indicates that Customers who makes more service calls are more likely to churn.
+![heatmap](https://github.com/user-attachments/assets/53c4f10b-58e9-4e4c-9073-40d6bf9d6c5f)
 
-heatmap
+h
 
 **Model Performance & Evaluation**
 
